@@ -8,10 +8,10 @@ An unofficial, AI-assisted study kit for the ISTQB Certified Tester Foundation L
  
 | File | Description | Status |
 |---|---|---|
-| [`docs/01-study-plan-9-days.pdf`](docs/01-study-plan-9-days.pdf) | 9-day plan with daily blocks, drills, and two mock exam days | Corrected |
-| [`docs/02-complete-study-notes.pdf`](docs/02-complete-study-notes.pdf) | Study notes for all six chapters with keywords and comparison tables | Corrected distribution |
-| [`docs/04-cheat-sheet.pdf`](docs/04-cheat-sheet.pdf) | Final review sheet covering all six chapters | Corrected |
-| [`drafts/03-question-bank-and-mocks.pdf`](drafts/03-question-bank-and-mocks.pdf) | 72 chapter-drill questions and 2 mock exams | **Draft, not fully verified** |
+| [`docs/01-study-plan-9-days.pdf`](docs/01_Study_Plan_9_Days.pdf) | 9-day plan with daily blocks, drills, and two mock exam days | Corrected |
+| [`docs/02-complete-study-notes.pdf`](docs/02_Complete_Study_Notes.pdf) | Study notes for all six chapters with keywords and comparison tables | Corrected distribution |
+| [`docs/04-cheat-sheet.pdf`](docs/04_Final_Review_Cheat_Sheet.pdf) | Final review sheet covering all six chapters | Corrected |
+| [`drafts/03-question-bank-and-mocks.pdf`](drafts/03_Question_Bank_and_Mock_Exams.pdf) | 72 chapter-drill questions and 2 mock exams | **Draft, not fully verified** |
  
 ### Known issues in the question bank
  
