@@ -6,11 +6,22 @@ An unofficial, AI-assisted 9-day study plan and cheat sheet for the ISTQB Certif
 
 ## What's inside
 
-| File | Description |
-|---|---|
-| [`docs/01-study-plan-9-days.pdf`](docs/01-study-plan-9-days.pdf) | 9-day plan with daily blocks, drills, and two mock exam days |
-| [`docs/02-cheat-sheet.pdf`](docs/02-cheat-sheet.pdf) | Final review sheet covering all six chapters |
+| File | Description | Status |
+|---|---|---|
+| [`docs/01-study-plan-9-days.pdf`](docs/01-study-plan-9-days.pdf) | 9-day plan with daily blocks, drills, and two mock exam days | Corrected |
+| [`docs/02-complete-study-notes.pdf`](docs/02-complete-study-notes.pdf) | Study notes for all six chapters with keywords and comparison tables | Corrected distribution |
+| [`docs/04-cheat-sheet.pdf`](docs/04-cheat-sheet.pdf) | Final review sheet covering all six chapters | Corrected |
+| [`drafts/03-question-bank-and-mocks.pdf`](drafts/03-question-bank-and-mocks.pdf) | 72 chapter-drill questions and 2 mock exams | **Draft, not fully verified** |
 
+### Known issues in the question bank
+
+This file is an AI-generated draft and is published as-is for transparency:
+- Four answer keys were corrected after review (Drill 3 Q8, Drill 4 Q7, Drill 4 Q9, Mock 1 Q41). Others may still contain errors.
+- The correct answer is "B" far more often than in a real exam, so do not use these mocks to estimate your score.
+- Mock 1 contains 41 questions, and the mocks do not follow the official chapter distribution.
+- Prefer the official ISTQB sample exams for mock practice.
+
+If you find an error, please open an Issue.
 ## Exam facts used in this kit
 
 - 40 multiple-choice questions, 60 minutes (+15 minutes if English is not your first language)
