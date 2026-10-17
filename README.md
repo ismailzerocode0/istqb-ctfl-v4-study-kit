@@ -63,3 +63,4 @@ Ismail Ibrahim, developer moving into quality engineering. [LinkedIn](www.linked
 ## License
  
 Content is licensed under [CC BY 4.0](LICENSE). ISTQB® and CTFL® are registered trademarks of ISTQB.
+"Official syllabus: download from istqb.org".
