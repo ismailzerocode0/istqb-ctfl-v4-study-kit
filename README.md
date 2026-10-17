@@ -58,7 +58,7 @@ Please open an [Issue](../../issues) with the section and the correction. Correc
 - [ ] Publish a reviewed practice question set (only after every answer is verified)
 ## Author
  
-Ismail Ibrahim, developer moving into quality engineering. [LinkedIn](PUT-YOUR-LINKEDIN-URL-HERE)
+Ismail Ibrahim, developer moving into quality engineering. [LinkedIn](www.linkedin.com/in/ismailibrahim122290)
  
 ## License
  
